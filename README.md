@@ -1,5 +1,5 @@
 # Northwind_Traders
-![shipping](picture.jpg)
+![shipping](Picture.jpg)
 Analysis of Northwind traders dataset to see how sales can be improved.
 
 ## Introduction
@@ -21,7 +21,8 @@ Northwind Traders knows that using data to make decisions is important. They wan
 The data was provided for ease. But it can be gotten from the data folder in the repository
 
 ## Data Visualisation
-![Customer Analysis](Customer Behaviuor.png)
+![Customer Analysis](CustomerBehaviour.png)
+
 ### Key Insights
 1. Which countries contribute the most to the overall sales?
  - The top contributing countries to overall sales are USA, Germany, and Austria. The USA leads with the highest sales figures, followed by Germany and Austria, indicating that these 
@@ -55,7 +56,8 @@ Understanding these patterns can help in inventory management and promotional pl
 - Regions like UK, France, and Italy show lower sales compared to the top-performing countries. This suggests potential for targeted marketing or sales efforts to grow these markets.
   Additionally, customers who are purchasing in lower quantities but are still generating significant revenue could be targeted for loyalty programs to encourage higher purchase volumes.
 
-![Product Analysis](Product analysis.png)
+![Product Analysis](Productanalysis.png)
+
 6. How does the revenue distribution among product categories inform inventory and sales strategies?
 - The revenue distribution shows that Seafood and Dairy Products are leading categories. This insight indicates that these categories should be prioritized in inventory management to 
   avoid stockouts. Lower-performing categories, such as Condiments (with $17K), might require a different sales strategy or promotional efforts to increase their sales.
