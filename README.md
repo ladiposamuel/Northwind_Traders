@@ -17,7 +17,7 @@ Northwind Traders knows that using data to make decisions is important. They wan
 - Data Manipulation and Transformation (DAX included)
 - Dashboard Building
 
-## Data Visualisation
+## Data Visualisation and Analysis
 ![Customer Analysis](CustomerBehaviour.png)
 
 ### Key Insights
@@ -26,43 +26,41 @@ Northwind Traders knows that using data to make decisions is important. They wan
    markets are key drivers of revenue for Northwind Traders.
 
 2. Who are the top customers by quantity and revenue, and what does this suggest about customer loyalty?
-- Top Customers by Quantity:
-  Save-a-lot Markets (4,958 units),
-  Ernst Handel (4,543 units)
-- Top Customers by Revenue:
-  Around the Horn ($13,390.65),
-  Chop-suey Chinese ($12,348.88)
+ - Top Customers by Quantity:
+   Save-a-lot Markets (4,958 units),
+   Ernst Handel (4,543 units)
+ - Top Customers by Revenue:
+   Around the Horn ($13,390.65),
+   Chop-suey Chinese ($12,348.88)
 
 The fact that certain customers like Save-a-lot Markets and Ernst Handel appear in the top for both quantity and revenue suggests they are highly engaged and potentially very loyal. They likely contribute significantly to recurring sales.
 
 3. What are the highest and least selling products, and what trends can be observed?
-- Highest Selling Products (Revenue): Thüringer Rostbratwurst leads with $80,368.67 in revenue.
-- Highest Selling Products (Quantity): Uncle Bob’s Organic Dried Pears tops the list with 763 units sold.
-- Least Selling Products: Camembert Pierrot and Boston Crab Meat are among the least selling products, with only 1577 and 1103 units sold, respectively.
+ - Highest Selling Products (Revenue): Thüringer Rostbratwurst leads with $80,368.67 in revenue.
+ - Highest Selling Products (Quantity): Uncle Bob’s Organic Dried Pears tops the list with 763 units sold.
+ - Least Selling Products: Camembert Pierrot and Boston Crab Meat are among the least selling products, with only 1577 and 1103 units sold, respectively.
 
 These trends suggest that while some products are top performers in both revenue and quantity, others like Camembert Pierrot and Boston Crab Meat might require re-evaluation in terms of their market strategy or even potential discontinuation.
 
 4. Which product categories generate the most revenue, and how does revenue fluctuate over the months?
-- Top Product Categories: Seafood and Dairy Products both generate the highest revenue, around $47K each.
-- Revenue by Month: The revenue shows a significant peak in April with $177K, followed by a slight decline, and then another rise in May. The fluctuation indicates potential seasonality 
+ - Top Product Categories: Seafood and Dairy Products both generate the highest revenue, around $47K each.
+ - Revenue by Month: The revenue shows a significant peak in April with $177K, followed by a slight decline, and then another rise in May. The fluctuation indicates potential seasonality 
   in sales, with April being a peak month.
 
 Understanding these patterns can help in inventory management and promotional planning to capitalize on peak sales periods.
 
 5. Which customers or regions might be targeted for growth based on the current data?
-- Regions like UK, France, and Italy show lower sales compared to the top-performing countries. This suggests potential for targeted marketing or sales efforts to grow these markets.
+ - Regions like UK, France, and Italy show lower sales compared to the top-performing countries. This suggests potential for targeted marketing or sales efforts to grow these markets.
   Additionally, customers who are purchasing in lower quantities but are still generating significant revenue could be targeted for loyalty programs to encourage higher purchase volumes.
 
 ![Product Analysis](Productanalysis.png)
 
 6. How does the revenue distribution among product categories inform inventory and sales strategies?
-- The revenue distribution shows that Seafood and Dairy Products are leading categories. This insight indicates that these categories should be prioritized in inventory management to 
+ - The revenue distribution shows that Seafood and Dairy Products are leading categories. This insight indicates that these categories should be prioritized in inventory management to 
   avoid stockouts. Lower-performing categories, such as Condiments (with $17K), might require a different sales strategy or promotional efforts to increase their sales.
 
 7. Are there specific products that consistently perform well or poorly, and what actions should be taken?
-- Products like Thüringer Rostbratwurst consistently perform well, indicating strong market demand. In contrast, products such as Camembert Pierrot have poor sales, suggesting they might 
-  either be less popular or face distribution challenges. Actions could include increasing marketing efforts for underperforming products or reconsidering their place in the product 
-  lineup.
+ - Products like Thüringer Rostbratwurst consistently perform well, indicating strong market demand. In contrast, products such as Camembert Pierrot have poor sales, suggesting they might either be less popular or face distribution challenges. Actions could include increasing marketing efforts for underperforming products or reconsidering their place in the product lineup.
 
 ### What makes customers keep coming back, and how can Northwind Traders use this to get more loyal customers?
 The "Top 10 Customers (Quantity)" and "Top 10 Customers (Revenue)" charts provide insights into repeat customers. Customers like Save-a-lot Markets and Ernst Handel are purchasing frequently and in large quantities.
