@@ -1,4 +1,4 @@
-# Northwind_Traders
+# Northwind Traders Analysis
 ![shipping](Picture.jpg)
 Analysis of Northwind traders dataset to see how sales can be improved.
 
@@ -17,9 +17,6 @@ Northwind Traders knows that using data to make decisions is important. They wan
 - Data Manipulation and Transformation (DAX included)
 - Dashboard Building
 
-## Data Source
-The data was provided for ease. But it can be gotten from the data folder in the repository
-
 ## Data Visualisation
 ![Customer Analysis](CustomerBehaviour.png)
 
@@ -30,10 +27,10 @@ The data was provided for ease. But it can be gotten from the data folder in the
 
 2. Who are the top customers by quantity and revenue, and what does this suggest about customer loyalty?
 - Top Customers by Quantity:
-  Save-a-lot Markets (4,958 units)
+  Save-a-lot Markets (4,958 units),
   Ernst Handel (4,543 units)
 - Top Customers by Revenue:
-  Around the Horn ($13,390.65)
+  Around the Horn ($13,390.65),
   Chop-suey Chinese ($12,348.88)
 
 The fact that certain customers like Save-a-lot Markets and Ernst Handel appear in the top for both quantity and revenue suggests they are highly engaged and potentially very loyal. They likely contribute significantly to recurring sales.
